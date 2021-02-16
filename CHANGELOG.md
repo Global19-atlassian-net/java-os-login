@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/googleapis/java-os-login/compare/v1.1.7...v1.2.0) (2021-02-16)
+
+
+### Features
+
+* generate sample code in the Java microgenerator ([#365](https://www.github.com/googleapis/java-os-login/issues/365)) ([2ba0c43](https://www.github.com/googleapis/java-os-login/commit/2ba0c436dbc46f5c26f64657b0f793ef3227e2c1))
+
 ### [1.1.7](https://www.github.com/googleapis/java-os-login/compare/v1.1.6...v1.1.7) (2021-01-14)
 
 
